@@ -1,0 +1,20 @@
+var food = "pizza";
+
+isDelicious = true;
+
+food = "tacos";
+
+var num2 = 2;
+
+var num7 = 7;
+
+var quotient = num7 / num2;
+
+var songs = ["pop", "rock", "country"];
+
+songs.pop("pop");
+console.log(songs);
+
+var foodQuestion = "How many letters are in the food string?";
+console.log(foodQuestion);
+console.log("There are " + food.length + " characters in the string");
