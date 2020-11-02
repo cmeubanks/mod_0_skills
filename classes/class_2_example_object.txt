@@ -1,0 +1,13 @@
+Instance = irishBar
+
+Attributes:
+glassCount = 300
+beerTypes = ["budlight", "coors", "stella"]
+happyHour = false
+drinkSpecial = "moscow mule"
+
+Methods:
+brokenGlass: glassCount = 200
+newKeg: beerTypes = ["budlight", "coors", "stella"]
+timeChange: happyHour = true
+expiringProduct: drinkSpecial = "martini"
