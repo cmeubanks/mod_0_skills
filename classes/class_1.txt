@@ -1,0 +1,13 @@
+Class = Kitchen
+
+Attributes:
+stove (boolean)
+forkCount (integer)
+ingredients (array)
+plateColor (string)
+
+Methods:
+addStove (reassigns stove to true)
+loseForks (reassign forkCount)
+buyIngredients (add element to ingredients array)
+updateDishware (change plateColor)
