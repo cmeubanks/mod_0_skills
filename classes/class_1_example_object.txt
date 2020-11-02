@@ -1,0 +1,13 @@
+Instance = pastryKitchen
+
+Attributes:
+stove = false
+forkCount = 200
+ingredients = ["flour", "sugar", "eggs"]
+plateColor = "white"
+
+Methods:
+addStove: stove = true
+loseForks: forkCount = 150
+buyIngredients: ingredients = ["flour", "sugar", "eggs", "milk"]
+updateDishware: plateColor = "pink"
