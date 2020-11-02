@@ -1,0 +1,13 @@
+Class = Bar
+
+Attributes:
+glassCount (integer)
+beerTypes (array)
+happyHour (boolean)
+drinkSpecial (string)
+
+Methods:
+brokenGlass (reassigns glassCount)
+newKeg (add element to beerTypes array)
+timeChange (reassigns happyHour to true)
+expiringProduct (changes drinkSpecial string)
